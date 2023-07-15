@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1048686640180",
+    "project_id": "deardiary-dc10e",
+    "storage_bucket": "deardiary-dc10e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048686640180:android:5fe0723f988e1e40279e61",
+        "android_client_info": {
+          "package_name": "com.example.mydiary_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048686640180-ogrvgeooq8idqugj2tj3fqc0l1fdmsvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyxogHk2A4Y22EHAgT1Ss3YJgYG4rsIMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048686640180-ogrvgeooq8idqugj2tj3fqc0l1fdmsvf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1048686640180-9pk7fq6k9dafltcu5fiqjtkq9drcftq2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mydiaryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
